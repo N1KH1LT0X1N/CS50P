@@ -21,9 +21,9 @@ CS50P/
 ├── week9/
 └── README.md
 ```
-- **psetX/**: Solutions to each problem set.
-- **notes/**: Personal notes and summaries.
-- **resources/**: Extra materials, code snippets, and links.
+- **weekX/**: Content divided weekwise
+- **lecX/**: Lecture code snippets
+- **psX/**: Solution to the problem sets
 
 ## 🚀 Getting Started
 
